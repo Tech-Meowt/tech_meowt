@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.techmeowt.com",
+      "destination": "https://www.iamjessg.com",
       "permanent": true
     }
   ]
